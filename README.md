@@ -9,7 +9,7 @@ To run it properly you need to install:
 When you have these things, you can clone this repo or init another project.
 In VS2019 you need do some additional things.
 
-1. Adding includes to General tab under C/C++ properties of the project:
+1. Adding includes to Additional Include Directories in General tab under C/C++ properties of the project:
 
 ![image](https://user-images.githubusercontent.com/37068602/67140615-90194900-f25c-11e9-9705-1a9d09b50ad8.png)
 
