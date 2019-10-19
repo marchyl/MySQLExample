@@ -11,6 +11,7 @@ In VS2019 you need do some additional things.
 
 1. Adding includes to General tab under C/C++ properties of the project:
 ![image](https://user-images.githubusercontent.com/37068602/67140615-90194900-f25c-11e9-9705-1a9d09b50ad8.png)
+
 also boost catalog
 ![image](https://user-images.githubusercontent.com/37068602/67140621-af17db00-f25c-11e9-8c78-0ebb83bda161.png)
 
